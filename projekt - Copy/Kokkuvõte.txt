@@ -1,0 +1,36 @@
+Programm sulgeti: 25.05.2023 18:28:18
+Baari tulu: 103.0 eurot.
+Baari jäänud inimeste krediit: 107.0 eurot.
+Inimsesd, kellel jäi kassasse krediiti: 
+Aadu Aas, 6.0
+Kadri Kajakas, 15.0
+Kaspar Karulauk, 5.0
+Mari Maasikas, 16.0
+Peeter Paan, 5.0
+Rasmus Rahamees, 50.0
+Tiina Teekond, 10.0
+
+Baarist ostetud joogid:
+Mohito - 5 € müüdi 6
+Kruvikeeraja - 5 € müüdi 1
+Viina shot - 2 € müüdi 29
+Rum Cola - 5 € müüdi 2
+
+Programm sulgeti: 25.05.2023 18:33:12
+Baari tulu: 103.0 eurot.
+Baari jäänud inimeste krediit: 107.0 eurot.
+Inimsesd, kellel jäi kassasse krediiti: 
+Aadu Aas, 6.0
+Kadri Kajakas, 15.0
+Kaspar Karulauk, 5.0
+Mari Maasikas, 16.0
+Peeter Paan, 5.0
+Rasmus Rahamees, 50.0
+Tiina Teekond, 10.0
+
+Baarist ostetud joogid:
+Mohito - 5 € müüdi 6
+Rum Cola - 5 € müüdi 2
+Kruvikeeraja - 5 € müüdi 1
+Viina shot - 2 € müüdi 29
+

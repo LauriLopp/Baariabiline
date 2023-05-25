@@ -1,0 +1,33 @@
+/*
+    Document   : controlStyle1
+*/
+
+.root{
+    -fx-font-size: 12pt;
+    -fx-font-family: "Tahoma";
+    -fx-base: #c2c2c2;
+    -fx-background: #efefef;
+    -fx-focus-color: #006464;
+}
+
+.button1{
+    -fx-text-fill: #006464;
+    -fx-background-color: #FEFEFE;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 0;
+}
+
+.button2{
+    -fx-text-fill: #c10000;
+    -fx-background-color: #24FF58;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+.slider{
+    -fx-border-color: white;
+    -fx-border-style: dashed;
+    -fx-border-width: 2;
+}

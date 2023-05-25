@@ -1,0 +1,28 @@
+00:07:16, MUUT, Mari Maasikas, 20.0, 20.0
+00:07:16, MUUT, Mari Maasikas, -4.0, 16.0
+00:07:16, OST, Mari Maasikas, Viina shot - 2 €, 2, 2.0
+00:07:35, MUUT, Peeter Paan, 10.0, 10.0
+00:07:35, MUUT, Peeter Paan, -5.0, 5.0
+00:07:35, OST, Peeter Paan, Mohito - 5 €, 1, 5.0
+00:07:44, OST, , Rum Cola - 5 €, 1, 5.0
+00:08:11, MUUT, Siim Suslik, 5.0, 5.0
+00:08:11, MUUT, Siim Suslik, -5.0, 0.0
+00:08:11, OST, Siim Suslik, Rum Cola - 5 €, 1, 5.0
+00:08:32, MUUT, Kaspar Karulauk, 10.0, 10.0
+00:08:32, MUUT, Kaspar Karulauk, -5.0, 5.0
+00:08:32, OST, Kaspar Karulauk, Mohito - 5 €, 1, 5.0
+00:08:57, MUUT, Rasmus Rahamees, 100.0, 100.0
+00:08:57, MUUT, Rasmus Rahamees, -50.0, 50.0
+00:08:57, OST, Rasmus Rahamees, Viina shot - 2 €, 25, 2.0
+00:09:36, MUUT, Tiina Teekond, 10.0, 10.0
+00:09:59, MUUT, Kadri Kajakas, 30.0, 30.0
+00:09:59, MUUT, Kadri Kajakas, -15.0, 15.0
+00:09:59, OST, Kadri Kajakas, Mohito - 5 €, 3, 5.0
+00:10:32, MUUT, Aadu Aas, 10.0, 10.0
+00:10:32, MUUT, Aadu Aas, -4.0, 6.0
+00:10:32, OST, Aadu Aas, Viina shot - 2 €, 2, 2.0
+00:12:34, MUUT, Peeter Paan, 10.0, 15.0
+00:12:34, MUUT, Peeter Paan, -5.0, 10.0
+00:12:34, OST, Peeter Paan, Mohito - 5 €, 1, 5.0
+00:12:54, MUUT, Peeter Paan, -5.0, 5.0
+00:12:54, OST, Peeter Paan, Kruvikeeraja - 5 €, 1, 5.0
